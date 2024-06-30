@@ -1,3 +1,6 @@
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8TLH0X)
+
 <p align="center">
 <img src="/.github/README/ICON.png" height="150">
 </p>
